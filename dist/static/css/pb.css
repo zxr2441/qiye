@@ -1,0 +1,11 @@
+body,div,p,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,table,tr,td,form,input,label,select,textarea,span,img,a,em,strong,*{ margin:0; padding:0;font-family:"Microsoft YaHei"; box-sizing: border-box;}
+ul,ol,li{ list-style:none;}
+h1,h2,h3,h4,h5,h6,b{font-family:"Microsoft YaHei";  font-weight:normal;}
+dd{font-family:"Microsoft YaHei";}
+input,select,textarea{ vertical-align:middle;}
+img{ border:none; vertical-align:middle;}
+a{ text-decoration:none;font-family:"Microsoft YaHei";}
+.clear{ clear:both; height:0px; width:0px; overflow:hidden;}
+em{font-style:normal}
+textarea {resize : none; outline:none;}
+input,select,button{ outline:none; cursor:pointer;}
